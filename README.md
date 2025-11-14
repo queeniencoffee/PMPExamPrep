@@ -22,6 +22,18 @@ This repository contains my **4-week accelerated PMP® exam study plan**, along 
 
 ---
 
+## PMP Exam ECO & Format
+
+PMP exam has 180 questions total — 175 scored + 5 unscored (pretest) questions.  
+
+People (42%) = 75 Questions
+
+Process (50%) = 90 Questions
+
+Business Environment (8%) = 15 Questions
+
+---
+
 ## 🎯 Purpose
 
 - Maintain a **single source of truth** for all PMP study materials  
