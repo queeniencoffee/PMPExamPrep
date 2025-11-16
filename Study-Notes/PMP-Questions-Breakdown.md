@@ -61,3 +61,26 @@ Basic pacing math:
 ```text
 230 minutes ÷ 180 questions ≈ 1.2777 minutes per question
 ≈ 1 minute 17 seconds per question
+```
+
+---
+
+## Cover Topics: 
+
+Predictive vs agile vs hybrid coverage (about half predictive, half agile/hybrid)
+
+### PMI mindset
+
+- Ethical, proactive, value-focused, stakeholder-centric
+- Favor collaboration, coaching, prevention, continuous improvement
+
+---
+
+
+
+
+
+
+
+
+
