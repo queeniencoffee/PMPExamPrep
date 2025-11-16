@@ -29,6 +29,13 @@ The 180 questions are distributed across three domains:
 | 120 Questions          |    155 mins    |
 | 60 Questions           |    80 mins     |
 
+| Checkpoint                | Questions Remaining | Minimum Time Remaining | Max Time Used So Far |
+| ------------------------- | ------------------- | ---------------------- | -------------------- |
+| Exam start                | 180                 | 230 min                | 0 min                |
+| After first 60 questions  | 120                 | **155 min**            | 75 min               |
+| After first 120 questions | 60                  | **80 min**             | 150 min              |
+
+
 # ≈ 1 minute 17 seconds per question
 
 ---
