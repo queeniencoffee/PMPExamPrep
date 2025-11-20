@@ -54,6 +54,87 @@ The Agile Manifesto argues that although the concepts on the right have value, t
 
 ------------------------------------------------------------------------------------------------
 
+## Life Cycle Selection
+Projects come in all shapes and sizes, and there are a variety of ways to manage them. 
+- Different organizational structures
+- different lifecycles
+- different management style
+- different sizes
+- different customer needs
+- different products and outputs
+
+Different types of projects drives different managing methods: 
+- Have co-located teams or dispersed teams
+- governed by a supportive, controlling or directive PMO, or functional manager
+- Sponsor or customer may want daily reports, or weekly reports.
+- Have more than one customer group receiving the benefit of the project
+- Project may be technically simple or complex
+- may have easily definable work, or high uncertainty work. 
+
+## Definable Work v.s. High Uncertainty Work
+Project work ranges from definable work to high-uncertainty work. 
+
+Definable: Clear procedure, similar to past projects
+e.g. Production of a car, appliance or home after the design is complete
+
+High-Uncertainty: High rate of change, complexity and risk
+e.g. System or problem solving engineers, product designers, doctors, lawyers etc.
+
+![Agile Project Complexity](https://github.com/queeniencoffee/PMPExamPrep/raw/e9d2950de9ba83a10a8bfebb294fe0562c3467e8/Study-Notes/img/Agile%20Project%20Complexity.png)
+
+## Project Life Cycle Selection
+
+No Life cycle can be perfect for all projects.  Instead, each project finds a place on the continuum that provides an optimum balance. 
+
+![Delivery vs Management Method](https://github.com/queeniencoffee/PMPExamPrep/raw/6fe16fe5b6686c6179e4e868fcfa42ef6546b72a/Study-Notes/img/Delivery%20vs%20Mgmt%20Method.png)
+
+------------------------------------------------------------------------------------------------
+
+# Life Cycle Selection
+
+## Predictive Life Cycle, aka "Waterfall approach"
+- The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process. Release products every 2-4 weeks.
+#### Predictive Lifecycle Characteristics:
+- Take advantage of high certainty around requirements, a stble team, and low risk.
+- Project activities often execute in a straight forward, serial manner.
+- As the team progresses through the detailed plan, they monitor and control changes that might affect the Scope, Schedule, or Budget (cost).
+- Project typically do not dliver business value until the end of project.  
+```mermaid
+graph LR
+    A[Analyze] --> D[Design] --> B[Build] --> T[Test] --> L[Deliver]
+```
+
+## Iterative Life Cycle
+- An approach that allows feedback for "unfinished" work to improve and modify that work.
+
+## Incremental Life Cycle
+- An approach that provides "finished" deliverables that the customer may be able to use immediately. Release products regularly.
+
+## Agile Life Cycle
+- An approach that is both iterative and incremental, to refine work items and deliver frequently.
+
+### 
+
+| # |   Approach  | Requirements | Activities                            | Delivery                    | Goal                    | 
+|---|-------------| ------------ | ------------------------------------- | --------------------------- | ----------------------- |
+| 1 | Predictive  | Fixed        | Performed once for the entire project | Single Delivery             | Manage Cost             |
+| 2 | Iterative   | Dynamics     | Repeated until correct                | Single Delivery             | Correctness of solution |
+| 3 | Incremental | Dynamics     | Performed once for a given increment  | Frequent smaller deliveries | Speed                   |
+| 4 | Agile       | Dynamics     | Repeated until correct                | Frequent smaller deliveries | Customer value via frequent deliveries and feedback | 
+
+------------------------------------------------------------------------------------------------
+
+### Where does Agile fit in Product and Project Management? 
+
+#### Use "Waterfall" when: 
+1. Definable: Clear Procedures, similar to past projects
+   i.e. Production of a car, appliance or home after the design is completed
+2. High-Uncertainty:  High rates of changes, complexity and risk
+   i.e. System or problem solving engineers, product designers, doctors, lawyers
+
+------------------------------------------------------------------------------------------------
+
+
 ## Whole Team approach
 - The whoel team approach meaning involving everyone with the knowledge and skills necessary to ensure project success.
 - The team should be "relative small" (successful teams have been observed with as few as three people and as many as nine).
@@ -105,72 +186,7 @@ Ref: https://youtu.be/7mMQtDbfzCw?si=TrxXgXWKeZon3DEb
 
 ------------------------------------------------------------------------------------------------
 
-## Life Cycle Selection
-Projects come in all shapes and sizes, and there are a variety of ways to manage them. 
-- Different organizational structures
-- different lifecycles
-- different management style
-- different sizes
-- different customer needs
-- different products and outputs
 
-Different types of projects drives different managing methods: 
-- Have co-located teams or dispersed teams
-- governed by a supportive, controlling or directive PMO, or functional manager
-- Sponsor or customer may want daily reports, or weekly reports.
-- Have more than one customer group receiving the benefit of the project
-- Project may be technically simple or complex
-- may have easily definable work, or high uncertainty work. 
-
-## Definable Work v.s. High Uncertainty Work
-Project work ranges from definable work to high-uncertainty work. 
-
-Definable: Clear procedure, similar to past projects
-e.g. Production of a car, appliance or home after the design is complete
-
-High-Uncertainty: High rate of change, complexity and risk
-e.g. System or problem solving engineers, product designers, doctors, lawyers etc.
-
-![Agile Project Complexity](https://github.com/queeniencoffee/PMPExamPrep/raw/e9d2950de9ba83a10a8bfebb294fe0562c3467e8/Study-Notes/img/Agile%20Project%20Complexity.png)
-
-## Project Life Cycle Selection
-
-No Life cycle can be perfect for all projects.  Instead, each project finds a place on the continuum that provides an optimum balance. 
-
-![Delivery vs Management Method](https://github.com/queeniencoffee/PMPExamPrep/raw/6fe16fe5b6686c6179e4e868fcfa42ef6546b72a/Study-Notes/img/Delivery%20vs%20Mgmt%20Method.png)
-
-### Predictive Life Cycle
-- The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process. Release products every 2-4 weeks. 
-
-### Iterative Life Cycle
-- An approach that allows feedback for "unfinished" work to improve and modify that work.
-
-### Incremental Life Cycle
-- An approach that provides "finished" deliverables that the customer may be able to use immediately. Release products regularly.
-
-### Agile Life Cycle
-- An approach that is both iterative and incremental, to refine work items and deliver frequently.
-
-### 
-
-| # |   Approach  | Requirements | Activities                            | Delivery                    | Goal                    | 
-|---|-------------| ------------ | ------------------------------------- | --------------------------- | ----------------------- |
-| 1 | Predictive  | Fixed        | Performed once for the entire project | Single Delivery             | Manage Cost             |
-| 2 | Iterative   | Dynamics     | Repeated until correct                | Single Delivery             | Correctness of solution |
-| 3 | Incremental | Dynamics     | Performed once for a given increment  | Frequent smaller deliveries | Speed                   |
-| 4 | Agile       | Dynamics     | Repeated until correct                | Frequent smaller deliveries | Customer value via frequent deliveries and feedback | 
-
-------------------------------------------------------------------------------------------------
-
-### Where does Agile fit in Product and Project Management? 
-
-#### Use "Waterfall" when: 
-1. Definable: Clear Procedures, similar to past projects
-   i.e. Production of a car, appliance or home after the design is completed
-2. High-Uncertainty:  High rates of changes, complexity and risk
-   i.e. System or problem solving engineers, product designers, doctors, lawyers
-
-------------------------------------------------------------------------------------------------
 
 
 
