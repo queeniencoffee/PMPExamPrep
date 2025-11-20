@@ -22,11 +22,7 @@
 8. Demonstrations / Reviews
 9. Continuous Integraiton \
     9b. Agile testing methods
-11. Sevant Leadership
-
-### Other topics covereed in PMP Exam:  
-10. Life Cycle Selection
-11. 
+10. Sevant Leadership
 
 ------------------------------------------------------------------------------------------------
 
