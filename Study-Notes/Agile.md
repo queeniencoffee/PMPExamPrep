@@ -134,6 +134,19 @@ graph LR
     A[Requirements, Analyze, Design, Build, Test] --> D[Requirements, Analyze, Design, Build, Test] --> B[Requirements, Analyze, Design, Build, Test] 
 ```
 
+## Hybrid Approach
+- Projects often combine elements of different life cycles in order to achive their goals.
+- A combination of predictive, iterative, incremetnal and agile approaches is hybrid approach.
+#### Characteristics: 
+- You might have:
+      - Largely agile, with some predictive
+            - Where you are integrating an external component developed by a different vendor
+            - A single iteration might be required after their component is delivered.
+      - Predominantly predictive, with some agile components
+            - Where you are delivering a straight forward project (a shed or patio), but trialling a new roofing material.
+      - A combined predictive and agile approach
+            -  A serial or linear project, where tasks are tracked using Kanban and daily scrums are used for updating work. 
+
 ------------------------------------------------------------------------------------------------
 
 ## Definable Work v.s. High Uncertainty Work
