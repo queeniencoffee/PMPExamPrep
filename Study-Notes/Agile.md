@@ -6,6 +6,10 @@
 1. The Four Agile Values & Manifesto
 2. The Agile 12 Clarifying Principles
 3. Life Cycle Selection
+      3a. Predictive / Waterfall
+      3b. Iterative
+      3c. Incremental
+      3d. Agile
 
 ### Deep Dive
 1. Whole team approach
@@ -84,7 +88,7 @@ Different types of projects drives different managing methods:
 ## "Predictive" / Waterfall Approach
 - The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process. Release products every 2-4 weeks.
 #### Predictive Lifecycle Characteristics:
-- Take advantage of high certainty around requirements, a stble team, and low risk.
+- Take advantage of <ins>high certainty</ins> around requirements, a <ins>stable team</ins>, and <ins>low risk</ins>.
 - Project activities often execute in a straight forward, serial manner.
 - As the team progresses through the detailed plan, they monitor and control changes that might affect the Scope, Schedule, or Budget (cost).
 - Project typically do not dliver business value until the end of project.  
@@ -95,12 +99,28 @@ graph LR
 
 ## "Iterative" Life Cycle
 - An approach that allows feedback for "unfinished" work to improve and modify that work.
+#### Characteristics: 
+- Iterative life cycles improve the product or result through successive prototpyes or proof of concepts.  Each new prototype yields new stakeholder feedback and team insights.
+- Team may use time-boxing on a given iteration of two or four weeks to build, gather feedback, then put that feedback into the next iteration.
+- Useful when complexity is high, or scope is subject to change.
+- Iterative life cycles take longer aas they are optimized for learning, rather than speed of delivery.
+```mermaid
+graph LR
+    A[Analyze] --> D[Analyze, Design] --> B[Build, Test] --> TL[Deliver]
+    D -->|Prototype| D
+    B -->|Refine| B
+```
 
 ## "Incremental" Life Cycle
 - An approach that provides "finished" deliverables that the customer may be able to use immediately. Release products regularly.
+#### Characteristics: 
+- 
 
 ## "Agile" Life Cycle
 - An approach that is both iterative and incremental, to refine work items and deliver frequently.
+#### Characteristics: 
+- 
+
 
 ------------------------------------------------------------------------------------------------
 
