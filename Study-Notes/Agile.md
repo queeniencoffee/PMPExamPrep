@@ -114,7 +114,14 @@ graph LR
 ## "Incremental" Life Cycle
 - An approach that provides "finished" deliverables that the customer may be able to use immediately. Release products regularly.
 #### Characteristics: 
-- 
+- When businesses or initiatives cannot afford to wait for everything to be completed.
+- In this situation the customer, business, or sponsor are willing to receive a subset of the overall solution delivered in frequent small releases.
+- You could provide a single feature at a time.
+- Increments are time-boxed in iterative methods, or pulled in flow based methods like Kanban. 
+```mermaid
+graph LR
+    A[Analyze, Design, Build, Test, Deliver] --> D[Analyze, Design, Build, Test, Deliver] --> B[Analyze, Design, Build, Test, Deliver] 
+```
 
 ## "Agile" Life Cycle
 - An approach that is both iterative and incremental, to refine work items and deliver frequently.
