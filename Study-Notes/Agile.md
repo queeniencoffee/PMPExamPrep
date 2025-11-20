@@ -257,7 +257,13 @@ Ref:  https://www.youtube.com/watch?v=O4K-UKzZfl0&list=PLEWFSKHjyrwy1bYSi1WsoPGD
 
 ------------------------------------------------------------------------------------------------
 
-## 5. 
+## 5. Retrospectives
+
+Retrospective is a meeting (often held at the end of an iteration of aroudn two weeks) to discuss what was successful, what could be improved, and how to incorporate the improvements and retain the successes in future iterations. 
+- What worked well?
+- Waht didn't work well?
+- What have I learned?
+- What still puzzles me? 
 
 ------------------------------------------------------------------------------------------------
 
@@ -297,6 +303,14 @@ Ref: https://www.youtube.com/watch?v=O2o1zjiZg04&list=PLEWFSKHjyrwy1bYSi1WsoPGDn
 1. Card
 2. Conversation
 3. Confirmation
+
+------------------------------------------------------------------------------------------------
+
+## 8. Demonstrations / Reviews
+
+- As the team **completed features**, usually **in form of user stories**, the team periodically demonstrates the working product to the **customer/business, and product owner**.
+- Often occurs at the end of an **iteration (2 weeks)**, or when enough features have been completed into a set that is coherent. 
+- Team members can get feedback that prevents them from heading into wrong directions.  
 
 ------------------------------------------------------------------------------------------------
 
