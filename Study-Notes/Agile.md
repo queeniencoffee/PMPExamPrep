@@ -5,6 +5,7 @@
 ### Key Concepts 
 1. The Four Agile Values & Manifesto
 2. The Agile 12 Clarifying Principles
+3. Life Cycle Selection
 
 ### Deep Dive
 1. Whole team approach
@@ -54,7 +55,7 @@ The Agile Manifesto argues that although the concepts on the right have value, t
 
 ------------------------------------------------------------------------------------------------
 
-## Life Cycle Selection
+# Life Cycle Selection
 Projects come in all shapes and sizes, and there are a variety of ways to manage them. 
 - Different organizational structures
 - different lifecycles
@@ -70,6 +71,38 @@ Different types of projects drives different managing methods:
 - Have more than one customer group receiving the benefit of the project
 - Project may be technically simple or complex
 - may have easily definable work, or high uncertainty work. 
+
+# Life Cycle Comparison
+
+| # |   Approach  | Requirements | Activities                               | Delivery                    | Goal                    | 
+|---|-------------| ------------ | ---------------------------------------- | --------------------------- | ----------------------- |
+| 1 | Predictive  | Fixed        | Performed once for the entire project    | Single Delivery             | Manage Cost             |
+| 2 | Iterative   | Dynamics     | Repeated until correct (unfinished work) | Single Delivery          | Correctness of solution |
+| 3 | Incremental | Dynamics     | Performed once for a given increment (finished work) | Frequent smaller deliveries | Speed                   |
+| 4 | Agile       | Dynamics     | Repeated until correct                   | Frequent smaller deliveries | Customer value via frequent deliveries and feedback | 
+
+## "Predictive" / Waterfall Approach
+- The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process. Release products every 2-4 weeks.
+#### Predictive Lifecycle Characteristics:
+- Take advantage of high certainty around requirements, a stble team, and low risk.
+- Project activities often execute in a straight forward, serial manner.
+- As the team progresses through the detailed plan, they monitor and control changes that might affect the Scope, Schedule, or Budget (cost).
+- Project typically do not dliver business value until the end of project.  
+```mermaid
+graph LR
+    A[Analyze] --> D[Design] --> B[Build] --> T[Test] --> L[Deliver]
+```
+
+## "Iterative" Life Cycle
+- An approach that allows feedback for "unfinished" work to improve and modify that work.
+
+## "Incremental" Life Cycle
+- An approach that provides "finished" deliverables that the customer may be able to use immediately. Release products regularly.
+
+## "Agile" Life Cycle
+- An approach that is both iterative and incremental, to refine work items and deliver frequently.
+
+------------------------------------------------------------------------------------------------
 
 ## Definable Work v.s. High Uncertainty Work
 Project work ranges from definable work to high-uncertainty work. 
@@ -87,40 +120,6 @@ e.g. System or problem solving engineers, product designers, doctors, lawyers et
 No Life cycle can be perfect for all projects.  Instead, each project finds a place on the continuum that provides an optimum balance. 
 
 ![Delivery vs Management Method](https://github.com/queeniencoffee/PMPExamPrep/raw/6fe16fe5b6686c6179e4e868fcfa42ef6546b72a/Study-Notes/img/Delivery%20vs%20Mgmt%20Method.png)
-
-------------------------------------------------------------------------------------------------
-
-# Life Cycle Selection
-
-## Predictive Life Cycle, aka "Waterfall approach"
-- The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process. Release products every 2-4 weeks.
-#### Predictive Lifecycle Characteristics:
-- Take advantage of high certainty around requirements, a stble team, and low risk.
-- Project activities often execute in a straight forward, serial manner.
-- As the team progresses through the detailed plan, they monitor and control changes that might affect the Scope, Schedule, or Budget (cost).
-- Project typically do not dliver business value until the end of project.  
-```mermaid
-graph LR
-    A[Analyze] --> D[Design] --> B[Build] --> T[Test] --> L[Deliver]
-```
-
-## Iterative Life Cycle
-- An approach that allows feedback for "unfinished" work to improve and modify that work.
-
-## Incremental Life Cycle
-- An approach that provides "finished" deliverables that the customer may be able to use immediately. Release products regularly.
-
-## Agile Life Cycle
-- An approach that is both iterative and incremental, to refine work items and deliver frequently.
-
-### 
-
-| # |   Approach  | Requirements | Activities                            | Delivery                    | Goal                    | 
-|---|-------------| ------------ | ------------------------------------- | --------------------------- | ----------------------- |
-| 1 | Predictive  | Fixed        | Performed once for the entire project | Single Delivery             | Manage Cost             |
-| 2 | Iterative   | Dynamics     | Repeated until correct                | Single Delivery             | Correctness of solution |
-| 3 | Incremental | Dynamics     | Performed once for a given increment  | Frequent smaller deliveries | Speed                   |
-| 4 | Agile       | Dynamics     | Repeated until correct                | Frequent smaller deliveries | Customer value via frequent deliveries and feedback | 
 
 ------------------------------------------------------------------------------------------------
 
