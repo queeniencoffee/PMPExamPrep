@@ -338,11 +338,11 @@ Ref: https://www.youtube.com/watch?v=O2o1zjiZg04&list=PLEWFSKHjyrwy1bYSi1WsoPGDn
 
 ## 10. Servant Leadership
 
-- Agile is a Servant Leaders.  Customer are the team member, and you are the lead. You are here to help them to succeed. 
+- Agile is a Servant Leaders. Customer are the team member, and you are the lead. You are here to help them to succeed. 
 - Servant leaders approach project work in this order:
-   - Purpose: Work with the team to define the "why"
-   - People: Creating an environment where everyone can succeed
-   - Process:  Look at the results over the process - if a team delivers value often and reflects on the product and the process, it is agile.
+   - **Purpose:** Work with the team to define the "why"
+   - **People:** Creating an environment where everyone can succeed
+   - **Process:**  Look at the results over the process - if a team delivers value often and reflects on the product and the process, it is agile.
 
 ------------------------------------------------------------------------------------------------
 
