@@ -140,16 +140,25 @@ No Life cycle can be perfect for all projects.  Instead, each project finds a pl
 ![Delivery vs Management Method](https://github.com/queeniencoffee/PMPExamPrep/raw/6fe16fe5b6686c6179e4e868fcfa42ef6546b72a/Study-Notes/img/Delivery%20vs%20Mgmt%20Method.png)
 
 ### Predictive Life Cycle
-- The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process.
+- The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process. Release products every 2-4 weeks. 
 
 ### Iterative Life Cycle
 - An approach that allows feedback for "unfinished" work to improve and modify that work.
 
 ### Incremental Life Cycle
-- An approach that provides "finished" deliverables that the customer may be able to use immediately. 
+- An approach that provides "finished" deliverables that the customer may be able to use immediately. Release products regularly.
 
 ### Agile Life Cycle
 - An approach that is both iterative and incremental, to refine work items and deliver frequently.
+
+### 
+
+| # |   Approach  | Requirements | Activities                            | Delivery                    | Goal                    | 
+|---|-------------| ------------ | ------------------------------------- | --------------------------- | ----------------------- |
+| 1 | Predictive  | Fixed        | Performed once for the entire project | Single Delivery             | Manage Cost             |
+| 2 | Iterative   | Dynamics     | Repeated until correct                | Single Delivery             | Correctness of solution |
+| 3 | Incremental | Dynamics     | Performed once for a given increment  | Frequent smaller deliveries | Speed                   |
+| 4 | Agile       | Dynamics     | Repeated until correct                | Frequent smaller deliveries | Customer value via frequent deliveries and feedback | 
 
 ------------------------------------------------------------------------------------------------
 
