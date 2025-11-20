@@ -5,22 +5,24 @@
 ### Key Concepts 
 1. The Four Agile Values & Manifesto
 2. The Agile 12 Clarifying Principles
-3. Life Cycle Selection
-      3a. Predictive / Waterfall
-      3b. Iterative
-      3c. Incremental
+3. Life Cycle Selection \
+      3a. Predictive / Waterfall \
+      3b. Iterative \
+      3c. Incremental \
       3d. Agile
 
 ### Deep Dive
 1. Whole team approach
 2. Early and Frequent Feedback
-3. Daily stand-ups
-4. Retrospectives
-5. Release and Iteration Planning
-6. Collaborative User Story Creation
-7. Demonstrations / Reviews
-8. Continuous Integraiton
-9. Sevant Leadership
+3. Rolling Wave Planning
+4. Daily stand-ups
+5. Retrospectives
+6. Release and Iteration Planning
+7. Collaborative User Story Creation
+8. Demonstrations / Reviews
+9. Continuous Integraiton \
+    9b. Agile testing methods
+11. Sevant Leadership
 
 ### Other topics covereed in PMP Exam:  
 10. Life Cycle Selection
@@ -178,8 +180,9 @@ No Life cycle can be perfect for all projects.  Instead, each project finds a pl
 
 ------------------------------------------------------------------------------------------------
 
+# Agile Core Practice
 
-## Whole Team approach
+## 1. Whole Team approach
 - The whoel team approach meaning involving everyone with the knowledge and skills necessary to ensure project success.
 - The team should be "relative small" (successful teams have been observed with as few as three people and as many as nine).
 - Ideally, the whole team shared the same workspace / co-located
@@ -206,7 +209,120 @@ Ref: https://youtu.be/7mMQtDbfzCw?si=TrxXgXWKeZon3DEb
 
 ------------------------------------------------------------------------------------------------
 
-## Agile Core Practice - Servant Leadership
+## 2. Early and Frequent Feedback
+- Agile projects have short iterations enabling the project team to receive early and continuous feedback on product quality throughout the development lifecycle.
+- By getting frequency customer feedback as teh project progresses, Agile teams can incorporate most new changes into the product, and the development process.
+
+### The benefit of early and frequency feedback include: 
+- Avoid requirements misundersatndings, which may not have been detected until alter in the development cycle when they are more expensive to fix.
+- Clarifying customer feature requests, makign them availble for customer use early.  This way, the product better reflects what the customer wants.
+- Discovering (via continuous integraiton), isolating, and resolving quality problems early.  Providing information to the Agile team regarding its productivity and ability to deliver.
+- Promoting consistent project momentum.
+
+#### Ref: https://youtu.be/qRCs-Th_pWs?si=im32t3ql6LIxk_lr
+
+------------------------------------------------------------------------------------------------
+
+## 3. Rolling Wave Planning
+### What is Rolling Wave Planning? 
+- Rolling wave planning is an iterative planning technique in which the work to be accomplished in the near term is planned in detail, while work further in the future is planned at a higher level.  They are called the <ins> features</ins>. Afterwards, when it's ready, we will further break down the <ins>features</ins> into <ins>work packages</ins>.
+- Rolling wave planning is a form of progressive elaboration applicable to work packages, planning packages, and release planning when using an agile or waterfall approaches.
+- Techniques include:
+      - Decomposition
+      - Iterative scheduling with a backlog 
+
+### Why do we do this? 
+- During early strategic planning when information is less defined, work packages may be decomposed to the known level of detail. 
+- As more is known about the upcoming events in the near term, work packages can be decomposed into activities. 
+
+#### Ref: https://www.youtube.com/watch?v=PwESbblSdQ0&list=PLEWFSKHjyrwy1bYSi1WsoPGDno-LKOnhV&index=8
+
+------------------------------------------------------------------------------------------------
+
+## 4. Daily Standup
+Team use stands up to imcro-commit to each other, uncover and remove blockers, and ensure workflows smoothly through the team. 
+- Timeboxed to 15 minutes
+- Walk through the Kanban or task board
+- Team facilitator / Scrum master or anyone in the team can facilitiate
+- Ideally in person, but can be virtual
+
+In Iteration-based agile, everyone answers the following questions in roundrobin fashion: 
+- What did I complete since the last stand-up? 
+- What am I planning to complete between now and next stand-up? 
+- What are my impediments (or risks, blockers, problems)? 
+
+* If problems do arise, take them "offline" - put them in an issue parking lot and don't try and resolve them during the stand-up. 
+
+Ref:  https://www.youtube.com/watch?v=O4K-UKzZfl0&list=PLEWFSKHjyrwy1bYSi1WsoPGDno-LKOnhV&index=10
+
+------------------------------------------------------------------------------------------------
+
+## 5. 
+
+------------------------------------------------------------------------------------------------
+
+## 6.  Release Planning v.s. Iteration Planning
+- For Agile, there are 2 kinds of planning:  "Release Planning" and "Iteration Planning".
+
+### Release Planning: 
+- <ins>Business representatives establish and prioritize the user stories for the release/<ins>, in collaboration with the team, refining larger user stories into a collection of smaller stories.
+- BD usually are the business owner
+- This process is known as the "Backlog Preparation"
+
+### Backlog Preparation
+- The backlog is the ordered list of all the work, presented in "story" form, for a team.
+- The facilitator encourages the team to work in triads of a developer, tester, and product owner/business analyst to discuss, write, and then place enough stories into an iternation, and enough features for a first release.
+
+### Iteration Planning
+- In iteration planning, the team selects user stories from the prioritized release backlog, elaborates the user stories, performs a risk analysis for the user stories, and estimates the work needed for each user story.
+- The number of stories selected is based on established team velocity and the estimated size of the selected user stories.
+- <ins>"Velocity"</ins> is the rate a team can complete work (e.g. 16 medium sized cards per iteration)
+
+Ref: https://www.youtube.com/watch?v=lbNS4iy93H8&list=PLEWFSKHjyrwy1bYSi1WsoPGDno-LKOnhV&index=9
+
+------------------------------------------------------------------------------------------------
+
+## 7. Collaborative User Story Creation
+- Poor specifications are often a major reason for project failure.
+- Agile development, user stories are written with <ins>developers, testers and business representatives</ins>, with freqent informal reviews to ensure they are right.
+- A user story:
+      - Address both <ins>functional</ins> and <ins>non-functional</ins> requirements
+      - Includes <ins>acceptance criteria</ins> for tehse characteristics, which must be:
+      - Estimatable, Small, and Testable
+      - What is <ins>done</ins> means? 
+      - See Behavior Driven Development (Given, when, then)
+Ref: https://www.youtube.com/watch?v=O2o1zjiZg04&list=PLEWFSKHjyrwy1bYSi1WsoPGDno-LKOnhV&index=7
+
+### Three C's of User Stories: 
+1. Card
+2. Conversation
+3. Confirmation
+
+------------------------------------------------------------------------------------------------
+
+## 9. Continuous Integration
+- Delivery of a product <ins>**increment**</ins> require reliable, working, integrated software at the end of every sprint. 
+- Continuous integration addresses this challenge by mergin all changes made to the software and integrating all **changed components regularly, at least once a day.**
+- Configuration management, compilation, software build, deployment and testing are wrapped into a **single, automated, repeatable process**.  Since developers integrate their work constantly, build constantly, and test constantly, **defects in code are detected more quickly.**  
+
+## 9b. Agile Testing
+- Test at all levels
+      - Applying **end-to-end testing** and **unit testing (UAT)** (of an individual story or feature). Agile teams have a preference for **automated tests (AT)**.
+- Acceptance Test-Driven development (ATDD)
+      - Creating end-to-end user acceptance tests by feature, as a team. These tests then feature as reusable "regression tests" for overall functionality, once that feature goes live.
+      - **ATDD --> BD, Developer, tester**, all played a role in designing the test criteria and how to test the software. Then built regression test to ensure nothing is broken. 
+- Test-Driven Development (TDD( and Behavior Driven Development (BDD)
+      - Writing automated tests before writing the product code helps people mistake-proof the product.  For non-software teams, consider prototyping with customer as a test.
+      - <ins>**BDD --> Given, When, Then**</ins>
+      - Given certain scenario, I want this to happen, then I want that to happen. (from customer POV)
+      - <ins>**TDD --> Test first --> Code --> Test**</ins>
+      - Write test first --> then write code --> then test should pass afterwards
+- Spikes
+      - Are timeboxed **research or experiments**.  Use this trying to figure out and estimate **acceptance criteria definition**, or **learning some critical technical** or functional element. 
+
+------------------------------------------------------------------------------------------------
+
+## 10. Servant Leadership
 
 - Agile is a Servant Leaders.  Customer are the team member, and you are the lead. You are here to help them to succeed. 
 - Servant leaders approach project work in this order:
@@ -216,19 +332,17 @@ Ref: https://youtu.be/7mMQtDbfzCw?si=TrxXgXWKeZon3DEb
 
 ------------------------------------------------------------------------------------------------
 
-## Early and Frequent Feedback
-- Agile projects have short iterations enabling the project team to receive early and continuous feedback on product quality throughout the development lifecycle.
-- By getting frequency customer feedback as teh project progresses, Agile teams can incorporate most new changes into the product, and the development process.
 
-## The benefit of early and frequency feedback include: 
-- Avoid requirements misundersatndings, which may not have been detected until alter in the development cycle when they are more expensive to fix.
-- Clarifying customer feature requests, makign them availble for customer use early.  This way, the product better reflects what the customer wants.
-- Discovering (via continuous integraiton), isolating, and resolving quality problems early.  Providing information to the Agile team regarding its productivity and ability to deliver.
-- Promoting consistent project momentum.
 
-#### Ref: https://youtu.be/qRCs-Th_pWs?si=im32t3ql6LIxk_lr
 
-------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 
 
