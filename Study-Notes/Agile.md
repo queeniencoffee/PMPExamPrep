@@ -126,8 +126,13 @@ graph LR
 ## "Agile" Life Cycle
 - An approach that is both iterative and incremental, to refine work items and deliver frequently.
 #### Characteristics: 
-- 
-
+- In an Agile environment, the team expects requirements to change
+- Iterative and Incremental approaches work together - to provide feedback for planning the next iteration, and uncovering hidden or misunderstood requiremetns (using increments)
+- For Kanban, or Flow based Agile, it is iterated for the number of features in the Work in Progress (WIP) limit (on the board). The team pulls features from the backlog column on the Kanban board based on their capacity.
+```mermaid
+graph LR
+    A[Requirements, Analyze, Design, Build, Test] --> D[Requirements, Analyze, Design, Build, Test] --> B[Requirements, Analyze, Design, Build, Test] 
+```
 
 ------------------------------------------------------------------------------------------------
 
