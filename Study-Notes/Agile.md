@@ -133,12 +133,25 @@ e.g. System or problem solving engineers, product designers, doctors, lawyers et
 
 ![Agile Project Complexity](https://github.com/queeniencoffee/PMPExamPrep/raw/e9d2950de9ba83a10a8bfebb294fe0562c3467e8/Study-Notes/img/Agile%20Project%20Complexity.png)
 
-# Project Life Cycle Selection
+## Project Life Cycle Selection
 
 No Life cycle can be perfect for all projects.  Instead, each project finds a place on the continuum that provides an optimum balance. 
 
 ![Delivery vs Management Method](https://github.com/queeniencoffee/PMPExamPrep/raw/6fe16fe5b6686c6179e4e868fcfa42ef6546b72a/Study-Notes/img/Delivery%20vs%20Mgmt%20Method.png)
 
+### Predictive Life Cycle
+- The traditional "waterfall" approach, with the bulk of planning done up front, then executing in a single, sequential process.
+
+### Iterative Life Cycle
+- An approach that allows feedback for "unfinished" work to improve and modify that work.
+
+### Incremental Life Cycle
+- An approach that provides "finished" deliverables that the customer may be able to use immediately. 
+
+### Agile Life Cycle
+- An approach that is both iterative and incremental, to refine work items and deliver frequently.
+
+------------------------------------------------------------------------------------------------
 
 ### Where does Agile fit in Product and Project Management? 
 
