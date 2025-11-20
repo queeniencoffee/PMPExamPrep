@@ -114,6 +114,14 @@ Projects come in all shapes and sizes, and there are a variety of ways to manage
 - different customer needs
 - different products and outputs
 
+Different types of projects drives different managing methods: 
+- Have co-located teams or dispersed teams
+- governed by a supportive, controlling or directive PMO, or functional manager
+- Sponsor or customer may want daily reports, or weekly reports.
+- Have more than one customer group receiving the benefit of the project
+- Project may be technically simple or complex
+- may have easily definable work, or high uncertainty work. 
+
 ## Definable Work v.s. High Uncertainty Work
 Project work ranges from definable work to high-uncertainty work. 
 
@@ -122,6 +130,15 @@ e.g. Production of a car, appliance or home after the design is complete
 
 High-Uncertainty: High rate of change, complexity and risk
 e.g. System or problem solving engineers, product designers, doctors, lawyers etc.
+
+![Agile Project Complexity](https://github.com/queeniencoffee/PMPExamPrep/raw/e9d2950de9ba83a10a8bfebb294fe0562c3467e8/Study-Notes/img/Agile%20Project%20Complexity.png)
+
+# Project Life Cycle Selection
+
+No Life cycle can be perfect for all projects.  Instead, each project finds a place on the continuum that provides an optimum balance. 
+
+![Delivery vs Management Method](https://github.com/queeniencoffee/PMPExamPrep/raw/6fe16fe5b6686c6179e4e868fcfa42ef6546b72a/Study-Notes/img/Delivery%20vs%20Mgmt%20Method.png)
+
 
 ### Where does Agile fit in Product and Project Management? 
 
