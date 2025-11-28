@@ -7,7 +7,7 @@ Focus heavily on **Earned Value Management (EVM)**, as it has the most calculati
 
 ---
 
-## 1. Earned Value Management (EVM)
+## 1a. Earned Value Management (EVM)
 
 This section measures project performance and forecasts future performance.
 
@@ -25,6 +25,27 @@ This section measures project performance and forecasts future performance.
 | **ETC**      | Estimate to Complete  | $\text{ETC} = \text{EAC} - \text{AC}$                    | Cost needed to complete the remaining work |
 | **VAC**      | Variance at Completion| $\text{VAC} = \text{BAC} - \text{EAC}$                  | Forecasted final budget variance |
 | **TCPI**     | To Complete Performance Index | *(2 formulas based on goal)*                         | Efficiency needed to meet a target |
+
+### 1b. Earned Value Management (EVM) (printable version)
+
+| Formula | Description |
+| :--- | :--- |
+| **Cost Variance (CV)** | CV = EV - AC |
+| **Schedule Variance (SV)** | SV = EV - PV |
+| **Cost Performance Index (CPI)** | CPI = EV / AC |
+| **Schedule Performance Index (SPI)** | SPI = EV / PV |
+| **Budget at Completion (BAC)** | BAC = Total project budget |
+| **Estimate at Completion (EAC)** (Typical Variances) | EAC = BAC / CPI |
+| **Estimate at Completion (EAC)** (Atypical Variances) | EAC = AC + (BAC - EV) |
+| **Estimate at Completion (EAC)** (Considering both CPI & SPI) | EAC = AC + ((BAC - EV) / (CPI * SPI)) |
+| **Estimate to Complete (ETC)** | ETC = EAC - AC |
+| **Variance at Completion (VAC)** | VAC = BAC - EAC |
+| **To Complete Performance Index (TCPI)** (To hit BAC) | TCPI = (BAC - EV) / (BAC - AC) |
+| **To Complete Performance Index (TCPI)** (To hit EAC) | TCPI = (BAC - EV) / (EAC - AC) |
+| **Planned Value (PV)** | PV = BAC * Planned % Complete |
+| **Earned Value (EV)** | EV = BAC * Actual % Complete |
+
+* **Rule of Thumb:** For CV and SV, a positive number is good. For CPI and SPI, a number **greater than 1** is good.
 
 ### EAC Formulas (Estimate at Completion)
 
@@ -81,14 +102,45 @@ The **Critical Path** is the **longest path** through the network diagram and ha
 
 *Where: **O** = Optimistic, **M** = Most Likely, **P** = Pessimistic*
 
+### 2b. Time Management and Scheduling (printable version)
+
+| Formula | Description |
+| :--- | :--- |
+| **Early Finish (EF)** | EF = ES + Duration |
+| **Late Start (LS)** | LS = LF - Duration |
+| **Total Float (TF)** | TF = LS - ES or TF = LF - EF |
+| **Critical Path** | The longest path, with Total Float = 0. |
+| **Free Float** | FF = ES of Successor - EF of Activity |
+| **PERT (Beta) Expected Duration** | $E = (O + 4M + P) / 6$ |
+| **PERT Standard Deviation $(\sigma)$** | $\sigma = (P - O) / 6$ |
+| **Triangular Expected Duration** | $E = (O + M + P) / 3$ |
+
+* **Key:** O = Optimistic, M = Most Likely, P = Pessimistic
+
+
 ---
 
-## 3. Risk Management
+## 3a. Risk Management
 
 | Term | Formula | Use |
 | :--- | :------ | :--- |
 | **Expected Monetary Value (EMV)** | $\text{EMV} = \text{Probability} \times \text{Impact (Cost)}$ | Calculates the average outcome when dealing with uncertainty (e.g., decision tree analysis). Add EMV for opportunities (positive value) and subtract EMV for threats (negative value). |
 | **Risk Priority Number (RPN)** | $\text{RPN} = \text{Severity} \times \text{Occurrence} \times \text{Detection}$ | Used in **FMEA (Failure Mode and Effects Analysis)** to prioritize risks in a qualitative assessment. |
+
+### 3b. Risk and Financial Analysis (printable version)
+
+| Formula | Description |
+| :--- | :--- |
+| **Expected Monetary Value (EMV)** | EMV = Probability * Impact (Cost/Value) |
+| **Number of Communication Channels** | $C = n(n - 1) / 2$ |
+| **Benefit-Cost Ratio (BCR)** | BCR = Present Value of Benefits / Present Value of Costs |
+| **Point of Total Assumption (PTA)** (FPIF Contracts) | $\text{PTA} = \left(\frac{\text{Ceiling Price} - \text{Target Price}}{\text{Buyer's Share Ratio}}\right) + \text{Target Cost}$ |
+
+* **Decision Rules:**
+    * **NPV:** Choose the **Highest Positive NPV**.
+    * **IRR:** Choose the **Highest IRR** (if IRR > Hurdle Rate).
+    * **Payback Period:** Choose the **Shortest Payback Period**.
+    * **BCR:** Choose the project with $\text{BCR} > 1$.
 
 ---
 
@@ -125,7 +177,3 @@ The **Critical Path** is the **longest path** through the network diagram and ha
 👉 Practice writing this entire sheet out repeatedly until **December 14th**.  
 The repetition will help you memorize not just the **formulas**, but also their **context and application**, which is crucial for the PMP exam.
 
-
----
-
-*What other PMP topics, such as **Conflict Resolution** or **Quality Management**, would you like a quick reference sheet for?*
