@@ -9,3 +9,4 @@ https://www.youtube.com/watch?v=73Ljz1G2geM
 ## Mindset: 
 (AR) https://www.youtube.com/watch?v=-u0rO-YQr9c
 (MR) https://www.youtube.com/watch?v=bOKpDPRfkvo
+(MR-deeper) https://www.youtube.com/watch?v=83y-aBdS1iY&pp=ygUOYXIgcG1wIG1pbmRzZXQ%3D
