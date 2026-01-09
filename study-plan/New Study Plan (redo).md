@@ -1,4 +1,7 @@
-# PMP Study Plan (Redo)
+# PMP Study Plan - Redo
+
+## PMP Daily Study Plan (Open this): 
+https://docs.google.com/document/d/1naz8sSQpvOJXnz9lspwZ4oTBjknQOYJg/edit
 
 ## 2026 PMP Study Plan: 
 https://www.youtube.com/watch?v=73Ljz1G2geM
