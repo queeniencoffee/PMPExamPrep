@@ -53,8 +53,53 @@ PM is always negoitating with others to have them stay in the project, get the r
 • Maybe responsible for several projects executing at the same time<br>
 • Maybe used to resolve conflicts in the project<br>
 
+# Project Management Approaches (Video 40)
 
+There are two primary project management approaches:
 
+- **Predictive** (also known as *Traditional* or *Waterfall*)
+- **Adaptive** (also known as *Agile* or *Iterative*)
+
+---
+
+## Predictive Approach (Traditional / Waterfall)
+
+The predictive approach follows a **linear and sequential** process.
+
+### Key Characteristics
+
+- Detailed planning and documentation completed upfront
+- Focus on defining:
+  - Project scope
+  - Objectives
+  - Timeline
+  - Deliverables
+- Extensive upfront planning
+- Sequential execution of project phases
+- Strong emphasis on control and documentation
+- Limited flexibility
+- Changes are controlled through a well-defined change control process
+
+---
+
+## Adaptive Approach (Agile / Iterative)
+
+The adaptive approach focuses on **flexibility, collaboration, and iterative development**.
+
+### Key Characteristics
+
+- Embraces change throughout the project lifecycle
+- Emphasizes continuous feedback and improvement
+- Iterative and incremental development
+- Strong customer collaboration
+- High emphasis on adaptability
+- Self-organizing teams
+- Commonly used in Agile methodologies such as:
+  - **Scrum**
+  - **Kanban**
+
+# Project constraints (Video 43)
+Scope, Schedule, Cost, Risk, Quality, Resource
 
 
 # Ready to Practice Drag & Drop Questions? 
