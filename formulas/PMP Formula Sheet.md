@@ -5,6 +5,15 @@ Creating and practicing your own **brain dump** is a key strategy for success on
 Below is a comprehensive **PMP Formula Sheet and quick reference guide**.  
 Focus heavily on **Earned Value Management (EVM)**, as it has the most calculations and concepts.
 
+# Tricks to remember this: 
+
+
+1) SPI / CPI:
+   If it's schedule performance index or cost performance index, or have the word "index", we always "divided"
+
+2) Cost Variance / Schedule Variance: 
+   If it's "Variance", we use "minus"
+
 ---
 
 ## 1a. Earned Value Management (EVM)
