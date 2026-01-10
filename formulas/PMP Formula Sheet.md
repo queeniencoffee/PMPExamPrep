@@ -8,11 +8,16 @@ Focus heavily on **Earned Value Management (EVM)**, as it has the most calculati
 # Tricks to remember this: 
 
 
-1) SPI / CPI:
+1) **SPI / CPI:** <br>
    If it's schedule performance index or cost performance index, or have the word "index", we always "divided"
 
-2) Cost Variance / Schedule Variance: 
+2) **Cost Variance / Schedule Variance:**<br>
    If it's "Variance", we use "minus"
+
+3) **Cost Variance / Cost Perforamnce Index:**<br>
+If it's "Cost" related, then the last term will be "Actual [Cost]"<br>
+i.e. <br>**"Cost"** Performance Index (CPI) = Earned Value (EV) / Actual **"Cost"** (AC)<br>
+**"Cost"** Variance (CV) = Earned Value (EV) - Actual **"Cost"** (AC)<br>
 
 ---
 
