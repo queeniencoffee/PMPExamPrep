@@ -40,15 +40,15 @@ PM is always negoitating with others to have them stay in the project, get the r
   Task duration refers to the amount of time it takes to complete a specific task or activity within a project.
 
 #   Project Bosses (Video 37)
-• Sponsor
-• Internal or External
-• Project Champion
-• Funding the project
-• Maybe used to resolve conflicts in the project
-• Program Manager
-• Senior to Project Manager
-• Maybe responsible for several projects executing at the same time
-• Maybe used to resolve conflicts in the project
+- **Sponsor****  
+  • Internal or External <br>
+• Project Champion<br>
+• Funding the project<br>
+• Maybe used to resolve conflicts in the project<br>
+- **Program Manager****  
+  • Senior to Project Manager<br>
+• Maybe responsible for several projects executing at the same time<br>
+• Maybe used to resolve conflicts in the project<br>
 
 
 
