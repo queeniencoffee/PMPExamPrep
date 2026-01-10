@@ -18,7 +18,10 @@ Stakeholders are individuals, groups, or organizations that may affect, be affec
 
 - **Functional Manager**  
   A departmental manager (e.g., Manager of Engineering, Vice President of Marketing, Director of IT) who generally controls resources.
-** Control resources** 
+** Control resources**
+  
+- **Add all the Agile Stakeholder here later**
+
 
 
 # Role as Project Manager (Video 35)
@@ -50,6 +53,13 @@ PM is always negoitating with others to have them stay in the project, get the r
 • Maybe responsible for several projects executing at the same time<br>
 • Maybe used to resolve conflicts in the project<br>
 
+
+
+
+
+# Ready to Practice Drag & Drop Questions? 
+[Drag and Drop Set #1 - 100 Ques](https://www.youtube.com/watch?v=K7J4WGbR9Ig)
+[Drag & Drop Set #2 - 110 Ques](https://www.youtube.com/watch?v=wwNUBe21jtM)
 
 
   
