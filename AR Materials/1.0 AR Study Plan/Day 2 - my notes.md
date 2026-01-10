@@ -33,3 +33,23 @@ Stakeholders are individuals, groups, or organizations that may affect, be affec
 PM is always negoitating with others to have them stay in the project, get the resouces you need etc. <br>
 
 # Milestone v.s. Task Duration (Video 36)
+- **Milestone**  
+  A milestone is a significant event or achievement in a project that marks a key point or completion of a major deliverable.
+  
+- **Task Duration**  
+  Task duration refers to the amount of time it takes to complete a specific task or activity within a project.
+
+#   Project Bosses (Video 37)
+• Sponsor
+• Internal or External
+• Project Champion
+• Funding the project
+• Maybe used to resolve conflicts in the project
+• Program Manager
+• Senior to Project Manager
+• Maybe responsible for several projects executing at the same time
+• Maybe used to resolve conflicts in the project
+
+
+
+  
