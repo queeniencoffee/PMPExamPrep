@@ -101,6 +101,35 @@ The adaptive approach focuses on **flexibility, collaboration, and iterative dev
 # Project constraints (Video 43)
 Scope, Schedule, Cost, Risk, Quality, Resource
 
+## PM Leadership Styles
+
+### Laissez-faire
+- Hands-off approach
+- Allows team to make their own decisions
+
+### Transactional
+- Management by exception
+- Focus on achievements
+
+### Servant Leader
+- Focuses on others’ growth
+- Emphasizes learning, development, autonomy, and well-being
+
+### Transformational
+- Inspirational motivation
+
+### Charismatic
+- High energy
+- Self-confident
+- Holds strong convictions
+
+### Interactional
+- Combination of:
+  - Transactional
+  - Transformational
+  - Charismatic
+
+
 
 # Ready to Practice Drag & Drop Questions? 
 [Drag and Drop Set #1 - 100 Ques](https://www.youtube.com/watch?v=K7J4WGbR9Ig) <br>
