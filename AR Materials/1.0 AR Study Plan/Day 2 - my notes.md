@@ -103,33 +103,29 @@ Scope, Schedule, Cost, Risk, Quality, Resource
 
 ## PM Leadership Styles
 
-### Laissez-faire
-- Hands-off approach
-- Allows team to make their own decisions
+| Leadership Styles | Explaination | 
+|---|---|
+| Laissez-faire | Hands-off approach, Allows team to make their own decisions |
+| Transactional | Focus on achievement, if you do this for me, I'll do this for you | 
+| Servant Leader | Coaching Role, focus on other's growth, carry food & water for the team, facilitate communication | 
+| Transformational | Visionary Leader, Inspirational, motivation | 
+| Charismatic | High energy, Self-confident, Holds strong convictions, people are drawn to him/her, help to get things done | 
+| Interactional | - Combination of: Transactional, Transformational, Charismatic | 
 
-### Transactional
-- Management by exception
-- Focus on achievements
+# Leadership vs Management
 
-### Servant Leader
-- Focuses on others’ growth
-- Emphasizes learning, development, autonomy, and well-being
-
-### Transformational
-- Inspirational motivation
-
-### Charismatic
-- High energy
-- Self-confident
-- Holds strong convictions
-
-### Interactional
-- Combination of:
-  - Transactional
-  - Transformational
-  - Charismatic
-
-
+| Leadership | Management |
+|-----------|------------|
+| Guide, influence, and collaborate | Direct using positional power |
+| Maintain and administer | Develop and innovate |
+| Focus on systems and structure | Focus on relationships with people |
+| Inspire trust | Rely on control |
+| Long-term vision | Near-term goals |
+| What and why | How and when |
+| Challenge the status quo | Accept the status quo |
+| Doing the right things | Doing things right |
+| Focus on the horizon | Focus on the bottom line |
+| Vision, alignment, motivation, inspiration | Operational issues and problem solving |
 
 # Ready to Practice Drag & Drop Questions? 
 [Drag and Drop Set #1 - 100 Ques](https://www.youtube.com/watch?v=K7J4WGbR9Ig) <br>
