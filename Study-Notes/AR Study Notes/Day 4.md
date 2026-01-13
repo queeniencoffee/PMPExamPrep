@@ -52,6 +52,49 @@ Video 74 focuses on the 33 project documents as defined by the PMBOK Guide, whic
 
 Overall, Video 74 serves as a preparatory resource for mastering the project documents essential for the PMP exam, combining memorization with comprehension to support effective learning and application.
 
+## Video 75 - Enterprise Environment Factor (EEF / aka "Culture")
+Video 75 provides an overview of the layout and structure of the PMP Certification Course. Here are the key highlights:
+
+<b>- Course Introduction:</b> The video sets the stage for what students can expect throughout the course. It highlights the goal of gaining foundational knowledge in project management as well as an understanding of traditional and agile methodologies.
+<b>- Basic Project Management Terms:</b> The instructor discusses the importance of knowing fundamental project management terms, such as the definition of a project, stakeholders, and constraints. These foundational definitions will be referenced from both PMBOK Guide editions 6 and 7.
+<b>- Project Management Approaches:</b> The instructor outlines three main approaches to project management: traditional (waterfall), agile, and hybrid methods that combine both. Each approach will be explored throughout the course.
+<b>- Focus on PMBOK Guide:</b> The course will dive deeply into the PMBOK Guide Sixth Edition, covering its 49 processes, ITTOs (Inputs, Tools, Techniques, Outputs), and relevant project management documents. The understanding of these processes is highlighted as critical for both the exam and practical application.
+
+Overall, Video 75 emphasizes the importance of understanding project management fundamentals and the structure of the course material, aiming to guide students effectively as they prepare for the PMP exam.
+
+## Video 76 - Organization Process Assets (OPA)
+Video 76 focuses on the identification and analysis of stakeholders throughout the project lifecycle. Here are the key highlights:
+
+<b>- Continuous Identification of Stakeholders:</b> The video emphasizes that identifying stakeholders is not a one-time task but should be done continuously as the project evolves. Stakeholder dynamics can change – for example, if a team member leaves or a new sponsor comes on board. Regular updates on stakeholder identification help in understanding their needs and preferences.
+<b>- Understanding Stakeholder Needs:</b> It's crucial to record relevant information about stakeholders' interests and their level of involvement. The distinction between active and passive stakeholders is discussed; active stakeholders are directly engaged in the project, while passive stakeholders may observe from a distance.
+<b>- Engagement Strategies:</b> To effectively engage stakeholders, project managers must tailor their communication strategies based on stakeholders' preferences. Understanding how to best engage different stakeholder groups enhances their support and satisfaction with the project.
+<b>- Stakeholder Relationships:</b> Maintaining productive relationships with stakeholders is vital. Project success can hinge on stakeholder satisfaction; those who oppose the project can negatively impact its outcomes. The video suggests establishing stakeholder agreements to clarify expectations and project objectives.
+<b>- Managing Change Requests:</b> The importance of adhering to a planned approach is highlighted. Changes to project plans should only be made through an approved change request, ensuring that any modifications are assessed and validated.
+
+In summary, Video 76 underscores the significance of ongoing stakeholder engagement, understanding their needs, and managing relationships to enhance project success.
+
+## Video 77: Project Documents
+
+PMP Exam:  will quiz on which document to use under this scenario (about 2-3 Questions like that)
+
+## Video 78:  Project Management Plan
 
 
 
+## Video 79:  Expert Judgement
+
+
+
+## Video 80: Data Gathering, Analysis, Representation and Decision Making
+
+
+## Video 81: 
+
+## Video 82: 
+
+## Video 83: 
+
+## Video 84: 
+
+## Video 85: 
+## Video 86: 
