@@ -14,8 +14,17 @@ Complexity Reassurance: The instructor reassures students that although the proc
 
 Other key highlights:  Traditional v.s. Agile v.s. incremental v.s. iterative
 
+## Video 72 - 49 Process of Traditional Project Management
 
+### Objective: 
+This provides a comprehensive introduction to the 49 processes used in traditional project management, especially for predictive projects. Here are the key highlights:
 
+<b>- Understanding Over Memorization: </b> 
+The speaker emphasizes the importance of understanding the processes conceptually rather than just memorizing them, as applying these concepts is crucial for real-life project management and exam success.<br>
+<b>- Reference to PMBOK Guides:</b> The lecture references the PMBOK Guide Sixth Edition, which details these processes, and mentions the transition to the PMBOK Guide Seventh Edition, which takes a more generic approach and omits specific processes.<br>
+<b>- Tailoring Processes: </b>While the 49 processes are considered best practices, they are not mandatory and should be tailored to meet the specific needs of individual projects. However, knowing them for the exam is critical.<br>
+<b>- Introduction to ITTOs:</b> The concepts of Inputs, Tools, Techniques, and Outputs (ITTOs) associated with each process are introduced and will be explored further in the course.<br>
+<b>- Categorization of Processes:</b> The processes are categorized into five Process Groups: Initiating, Planning, Executing, Monitoring and Controlling, and Closing. The speaker highlights how many processes fall within each group and prepares learners for a deeper dive into each one.<br>
 
-
+Overall, Video 72 aims to equip learners with the necessary knowledge to manage projects effectively and succeed in project management examinations.
 
