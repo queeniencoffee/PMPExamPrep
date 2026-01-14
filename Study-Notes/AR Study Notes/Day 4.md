@@ -52,6 +52,29 @@ Video 74 focuses on the 33 project documents as defined by the PMBOK Guide, whic
 
 Overall, Video 74 serves as a preparatory resource for mastering the project documents essential for the PMP exam, combining memorization with comprehension to support effective learning and application.
 
+EEF = all those politics and stuff that you can't control, i.e. 
+OPA = all those template and processes
+
+### Internal and External Factors
+
+| Category | Factor |
+|--------|--------|
+| Internal | Company’s Organizational Structure and Governance |
+| Internal | Organizational Culture |
+| Internal | Organization’s and Stakeholders’ Appetite for Risk |
+| Internal | Organization’s Established Communication Channels |
+| Internal | Information Technology Software |
+| Internal | Geographic Distribution of Facilities and Resources |
+| Internal | Infrastructure |
+| Internal | Resource Availability |
+| Internal | Employee Capability |
+| External | Political Climate |
+| External | Government or Industry Standards |
+| External | Commercial Databases |
+| External | Legal Restrictions |
+| External | Financial Considerations |
+
+
 ## Video 75 - Enterprise Environment Factor (EEF / aka "Culture")
 Video 75 provides an overview of the layout and structure of the PMP Certification Course. Here are the key highlights:
 
